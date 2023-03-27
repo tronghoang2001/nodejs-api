@@ -1,0 +1,10 @@
+{
+   "mongodb": {
+     "username": "12a9nth",
+     "password": "8FGtLF37nN6hwUvU",
+     "database": "demodb"
+   },
+   "jwt": {
+      "secret":"goK!pusp6ThEdURUtRenOwUhAsWUCLheBazl!uJLPlS8EbreWLdrupIwabRAsiBu"
+   }
+ }
